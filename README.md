@@ -10,7 +10,7 @@
 
 - Swift
 - UIKit
-- LocalStorage
+- UserDefaults
 - KeyChain
 - Realm
 
